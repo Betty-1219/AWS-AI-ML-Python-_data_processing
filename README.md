@@ -24,38 +24,13 @@ The Student Data-Processing App is a simple Python application that loads raw st
 - `requirements.txt` – Lists the required Python libraries.
 - `student_data_processing.ipynb` – Demonstrates the application in Jupyter Notebook.
 
-## Installation and Usage
+How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
+Install the required packages using python -m pip install -r requirements.txt.
 
-2. Open the project folder:
-   ```bash
-   cd student-data-processing-app
-   ```
+Open data_processing_app.ipynb in Jupyter Notebook.
 
-3. Create a virtual environment:
-   ```bash
-   python -m venv venv
-   ```
-
-4. Activate it on Windows:
-   ```bash
-   venv\Scripts\activate
-   ```
-
-5. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-6. Run the application:
-   ```bash
-   python main.py
-   ```
-
+Run the notebook cells in order.
 ## Expected Output
 The application will display cleaned student data, dataset shape, mean, standard deviation, and other numerical analysis results.
 
