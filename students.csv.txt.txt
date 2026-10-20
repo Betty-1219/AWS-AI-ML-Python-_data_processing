@@ -1,0 +1,10 @@
+
+name,age,score
+Abebe,20,85
+Sara,19,92
+Mimi,21,78
+Dawit,20,65
+Hana,19,88
+Sara,19,92
+Robel,22,
+Liya,20,120
